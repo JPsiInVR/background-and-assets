@@ -7,7 +7,7 @@ If you would like to contribute to a specific topic, please refer to the list be
 - **Storyboard**: Sarah
 - **3D modelling**: Michał
 - **Unity**: Kamil, Adrian
-- **Social media**: Robert
+- **Social media**: Tristan
 
 # Literature
 Here is a list of literature on the discovery of J/Psi
